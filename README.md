@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project uses NLP techniques to automatically identify real disaster tweets from social media noise. Built as part of my Data Science coursework, it demonstrates practical machine learning applications for emergency response systems.
+This project uses NLP techniques to automatically identify real disaster tweets from social media noise. It demonstrates practical machine learning applications for emergency response systems.
 
 ## Problem Statement
 
@@ -32,11 +32,6 @@ During disasters, social media becomes flooded with information. Not all tweets 
 
 The model successfully balances precision (avoiding false alarms) and recall (catching real disasters), making it practical for emergency response applications.
 
-## Technical Stack
-
-```
-Python | scikit-learn | NLTK | pandas | numpy | matplotlib
-```
 
 ## Key Files
 
