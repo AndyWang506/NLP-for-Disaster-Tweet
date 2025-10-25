@@ -1,4 +1,4 @@
-# NLP with Disaster Tweets
+# NLP for Disaster Tweets
 
 > **Classifying disaster-related tweets using Natural Language Processing and Machine Learning**
 
